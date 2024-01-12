@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715870857793",
+    "project_id": "sound-ito",
+    "storage_bucket": "sound-ito.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715870857793:android:fcf1436b48e15ec878f4c0",
+        "android_client_info": {
+          "package_name": "com.example.sound_ito"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB0431sfcxWmNm6_fakyO4kphlGBiHCww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
